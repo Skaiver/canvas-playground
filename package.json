@@ -1,0 +1,26 @@
+{
+  "name": "canvas-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skaiver/canvas-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skaiver/canvas-playground/issues"
+  },
+  "homepage": "https://github.com/Skaiver/canvas-playground#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^5.1.0",
+    "pdf-lib": "^1.17.1",
+    "sass": "^1.56.1"
+  }
+}
